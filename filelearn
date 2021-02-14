@@ -1,0 +1,5 @@
+import os
+f=open("/users/anusha/documents/anusha_sp/pythonstudy/file1.txt","a")
+
+f.write("\nmuthu is clever")
+f.close()
