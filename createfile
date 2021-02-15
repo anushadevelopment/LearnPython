@@ -1,0 +1,4 @@
+import os
+file = open("/users/anusha/documents/anusha_sp/pythonstudy/testfile.txt","x")
+file.write("Akshu cute")
+file.close()
